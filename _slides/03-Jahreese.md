@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Training is going good :ship:
+testing  :ship:
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
