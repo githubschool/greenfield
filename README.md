@@ -1,5 +1,6 @@
 # GitHub for Developers
 
+- Extra change
 - Class Date: May 24 - 27, 2021
 - Facilitator: @ericalloyd
 
